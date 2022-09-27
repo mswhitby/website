@@ -9,6 +9,6 @@ include:
   - period_3.md
   - period_4.md
 
-remote_theme: deandrawhitby/documentation-theme-jekyll-next-version
+remote_theme: poole/hyde
 
 navbar_style: lighttheme-blackred
