@@ -10,5 +10,3 @@ include:
   - period_4.md
 
 remote_theme: poole/hyde
-
-navbar_style: lighttheme-blackred
