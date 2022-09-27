@@ -1,7 +1,7 @@
 ---
+layout: page
 title: "Period 2"
 permalink: period_2.html
-topnav: topnav
 ---
 
 
