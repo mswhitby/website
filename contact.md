@@ -1,8 +1,7 @@
 ---
 title: "Contact"
-output: 
-  html_document:
-    toc: FALSE
+permalink: contact.html
+topnav: topnav
 ---
 
 

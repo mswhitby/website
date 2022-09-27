@@ -1,8 +1,7 @@
 ---
-title: "About"
-output: 
-  html_document:
-    toc: FALSE
+title: "Period 3"
+permalink: period_3.html
+topnav: topnav
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 title: "About"
-output: 
-  html_document:
-    toc: FALSE
+permalink: about.html
+topnav: topnav
 ---
 
 

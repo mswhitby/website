@@ -3,9 +3,9 @@ navbar_singleitems:
     - title: Ms. Whitby - Computer Science
       url: /
     - title: About
-      url: ./about.html
+      url: /about.html
     - title: Contact
-      url: ./contact.html
+      url: /contact.html
 
 navbar_dropdowns:
 - folders:
