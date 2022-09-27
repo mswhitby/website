@@ -1,11 +1,14 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+title: Ms. Whitby - Computer Science
+
 include:
   - index.md
   - about.md
   - contact.md
+  - period_1.md
+  - period_2.md
+  - period_3.md
+  - period_4.md
+
 remote_theme: deandrawhitby/documentation-theme-jekyll-next-version
 
+navbar_style: lighttheme-blackred
