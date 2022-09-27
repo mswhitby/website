@@ -1,13 +1,25 @@
 navbar_singleitems:
 - items:
-    - title: HOME
+    - title: Ms. Whitby - Computer Science
       url: /
     - title: About
-      url: ./aboutme.html
+      url: ./about.html
     - title: Contact
-      url: ./aboutme.html
+      url: ./contact.html
 
+navbar_dropdowns:
+- folders:
 
+    - title: Classes
+      folderitems:
+        - title: Period 1
+          url: /period_1.html
+        - title: Period 2
+          url: /period_2.html
+        - title: Period 3
+          url: /period_3.html
+        - title: Period 4
+          url: /period_4.html
 
 
 
