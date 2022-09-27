@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Period 3"
-permalink: period_3.html
 ---
 
 

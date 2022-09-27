@@ -1,8 +1,5 @@
 ---
-layout: page
 title: "Period 1"
-permalink: period_1.html
-topnav: topnav
 ---
 
 
