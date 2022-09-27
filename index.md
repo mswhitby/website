@@ -1,8 +1,7 @@
 ---
 title: "Ms. Whitby"
-output: 
-  html_document:
-    toc: FALSE
+permalink: index.html
+topnav: topnav
 ---
 
 
