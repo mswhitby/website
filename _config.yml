@@ -7,5 +7,5 @@ include:
   - index.md
   - about.md
   - contact.md
-remote_theme: tomjoht/documentation-theme-jekyll
+remote_theme: deandrawhitby/documentation-theme-jekyll-next-version
 
