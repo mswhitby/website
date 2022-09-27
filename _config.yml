@@ -1,10 +1,9 @@
-name: "My new website"
-output_dir: 'docs'
-output:
-  html_document:
-    theme: cerulean
-    highlight: zenburn
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - about.md
+  - contact.md
