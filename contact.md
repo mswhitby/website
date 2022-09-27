@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "Contact"
 output: 
   html_document:
     toc: FALSE
